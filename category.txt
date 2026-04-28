@@ -1,0 +1,36 @@
+ID; Name; Has_Conflict
+1; Emollients; True
+2; Surfactants; True
+3; Preservatives; False
+4; Humectants; True
+5; Antioxidants; True
+6; Emulsifiers; True
+7; Stabilizers; True
+8; Solvents; True
+9; Chelating Agents; True
+10; UV Filters; True
+11; Fragrances; True
+12; Colorants; True
+13; pH Regulators; True
+14; Texturizers; True
+15; Peptides; True
+16; Anti-inflammatory; True
+17; Antimicrobials; True
+18; Exfoliants; True
+19; Refreshers; True
+20; Probiotics; True
+21; Prebiotics; True
+22; Film Formers; True
+23; Conditioning Agents; True
+24; Plant Extracts; True
+25; Hyaluronic Acid; True
+26; Ceramides; True
+27; Niacinamide; True
+28; Retinoids; True
+29; Vitamin C; True
+30; Vitamin E; True
+31; Salicylic Acid; True
+32; Glycolic Acid; True
+33; Lactic Acid; True
+34; Azelaic Acid; True
+35; Panthenol; True
